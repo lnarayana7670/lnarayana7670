@@ -1,112 +1,93 @@
-# Hi 👋, I'm Lakshminarayana N
+# 👋 Hi, I'm Lakshminarayana N
 
-### Final-Year AIML Engineering Student | AI/ML | Generative AI | MLOps
+### 🎓 Final-Year AIML Engineering Student | AI/ML | Generative AI | MLOps
 
-I am an AIML engineering student passionate about building practical
-AI and Machine Learning solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header&text=Building%20Intelligent%20Solutions&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="AI and machine learning banner"/>
+</p>
 
-I enjoy working with Python, Machine Learning, Natural Language Processing,
-Generative AI and MLOps, and I am continuously improving my skills through
-hands-on projects and real-world applications.
+<p align="center">
+  <a href="https://github.com/lnarayana7670">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge" alt="AI focus"/>
+  <img src="https://img.shields.io/badge/Interest-Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI interest"/>
+</p>
 
----
+## 🚀 About Me
 
-## 🧠 About Me
+I'm a final-year Artificial Intelligence and Machine Learning engineering student interested in building practical AI solutions and learning how to take machine learning models from development to deployment.
 
-- 🎓 Final-Year B.E. Artificial Intelligence & Machine Learning Student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🐍 Working with Python and Machine Learning
-- 🧠 Exploring Generative AI and NLP
-- ⚙️ Learning MLOps and end-to-end ML development
-- 🚀 Building practical AI/ML projects
-- 📚 Continuously learning new technologies
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Learning Natural Language Processing and Generative AI
+- ⚙️ Developing Python-based projects
+- 📊 Interested in data analysis and recommendation systems
+- ☁️ Learning MLOps, APIs, and model deployment
+- 🌱 Continuously improving through hands-on projects
 
----
+## 🛠️ Technologies & Tools
 
-## 🛠️ Technical Skills
+### Programming and Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="Programming and development tools"/>
+</p>
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+### AI, Machine Learning and Development
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,docker,flask" alt="AI and development technologies"/>
+</p>
 
-### AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat)
+*Note: These icons represent technologies to explore. Keep only the tools you have used or are actively learning.*
 
-### Python Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+## 💻 Featured Projects
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+### 1. Product Recommendation System
+An AI/ML project focused on recommending relevant products to users.
 
----
+- **Focus:** Recommendation systems and machine learning
+- **Planned direction:** Hybrid recommendations, model evaluation, and MLOps
+- **Repository:** [Product-recommendation](https://github.com/lnarayana7670/Product-recommendation)
 
-## 🚀 Featured Projects
+### 2. AI FAQ Chatbot
+A chatbot project designed to answer frequently asked questions using NLP-related techniques.
 
-### 🛒 End-to-End Product Recommendation System
+- **Focus:** Python, NLP, and FAQ-based question answering
+- **Repository:** [CodeAlpha FAQ Chatbot](https://github.com/lnarayana7670/CodeAlpha_FAQChatbot)
 
-An end-to-end Machine Learning recommendation system designed to
-provide personalized product recommendations with an MLOps-oriented
-development approach.
+### 3. Language Translation Tool
+A Python project for translating text between supported languages.
 
-**Focus:** Recommendation Systems • Machine Learning • MLOps
+- **Focus:** Language translation and Python development
+- **Repository:** [CodeAlpha Language Translation Tool](https://github.com/lnarayana7670/CodeAlpha_LanguageTranslationTool)
 
-🔗 [View Project](https://github.com/lnarayana7670/Product-recommendation)
+## 🎯 Current Learning Goals
 
----
+- Strengthening Python and SQL
+- Understanding machine learning algorithms
+- Learning NLP, LLMs, and Retrieval-Augmented Generation (RAG)
+- Exploring FastAPI, Docker, and MLOps
+- Building and documenting end-to-end AI/ML projects
 
-### 🤖 AI FAQ Assistant
+## 📈 GitHub Activity
 
-An NLP-based FAQ chatbot designed to answer common questions related
-to Artificial Intelligence, Machine Learning, Python and Data Science.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lnarayana7670&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnarayana7670&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used languages"/>
+</p>
 
-**Focus:** NLP • NLTK • Scikit-learn • Streamlit
+## 🤝 Connect With Me
 
-🔗 [View Project](https://github.com/lnarayana7670/CodeAlpha_FAQChatbot)
-
----
-
-### 🌐 AI Language Translation Tool
-
-A Python-based language translation application with an interactive
-user interface.
-
-**Focus:** Python • NLP • Streamlit
-
-🔗 [View Project](https://github.com/lnarayana7670/CodeAlpha_LanguageTranslationTool)
-
----
-
-## 📚 Currently Learning
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- Deep Learning
-- Computer Vision
-- FastAPI
-- Docker
+<p>
+  <a href="https://github.com/lnarayana7670">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:lnarayana7670@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Career Goal
-
-Aspiring AI/ML Engineer focused on building intelligent,
-scalable and practical AI solutions.
-
----
-
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  💡 <i>Learning, building, and growing in AI/ML — one project at a time.</i>
+</p>
